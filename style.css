@@ -8,6 +8,7 @@ h1{
 
 p{
 	text-align: center;
+	color: lightsalmon;
 }
 
 h2{
@@ -16,6 +17,7 @@ h2{
 
 ul{
 	text-align: center;
+	color: plum;
 }
 
 div#list{
@@ -25,4 +27,8 @@ div#list{
 
 div#list ul li {
 	text-align: left;
+}
+
+img{
+	border-radius: 50%;
 }
